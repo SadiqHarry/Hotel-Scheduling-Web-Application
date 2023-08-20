@@ -1,5 +1,6 @@
 # Hotel Scheduling Application
-![landingPage](https://github.com/SadiqHarry/Springboot_Angualr_NodeJS-Hotel-Scheduling-Application/assets/116308353/565a793a-bc92-423a-990c-eb39c58900fb)
+![landingPage](https://github.com/SadiqHarry/Springboot_Angualr_NodeJS-Hotel-Scheduling-Application/assets/116308353/f78853eb-1ed6-4af5-a04e-8aceddb6072e)
+
 
 Welcome to the Hotel Scheduling Application! This project is a scheduling application developed using Spring Boot, Angular, Node.js, and Maven. The application's purpose is to facilitate hotel reservations and scheduling, catering to the needs of both hotel staff and guests. The project has been customized to meet new requirements under new management for a hotel located in Toronto, Canada.
 
