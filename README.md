@@ -9,7 +9,8 @@ Welcome to the Hotel Scheduling Application! This project is a scheduling applic
 - Springboot/Java
 - NodeJS
 - Docker
-- Intellij 
+- Intellij
+- VSCode
 
 ## Features
 
