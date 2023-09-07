@@ -7,6 +7,7 @@ Welcome to the Hotel Scheduling Application! This project is a scheduling applic
 ## Technologies Leveraged
 - Angular/Typescript 
 - Springboot/Java
+- HTML/CSS
 - NodeJS
 - Docker
 - Intellij
