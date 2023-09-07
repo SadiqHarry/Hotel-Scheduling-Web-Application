@@ -4,6 +4,13 @@
 
 Welcome to the Hotel Scheduling Application! This project is a scheduling application developed using Spring Boot, Angular, Node.js, and Maven. The application's purpose is to facilitate hotel reservations and scheduling, catering to the needs of both hotel staff and guests. The project has been customized to meet new requirements under new management for a hotel located in Toronto, Canada.
 
+## Technologies Leveraged
+-Angular/Typescript 
+-Springboot/Java
+-NodeJS
+-Docker
+-Intellij 
+
 ## Features
 
 - **Localization and Internationalization**: The application supports English and French languages to comply with Canadian law. It displays a welcome message in both languages.
