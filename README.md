@@ -1,5 +1,6 @@
 # Hotel Scheduling Application
-![landingPage](https://github.com/SadiqHarry/Springboot_Angualr_NodeJS-Hotel-Scheduling-Application/assets/116308353/f78853eb-1ed6-4af5-a04e-8aceddb6072e)
+
+![1](https://github.com/SadiqHarry/Hotel-Scheduling-Web-Application/assets/116308353/6142d9e3-a2e7-4fe2-bfed-a28f06fce79f)
 
 
 Welcome to the Hotel Scheduling Application! The application's purpose is to facilitate hotel reservations and scheduling, catering to the needs of both hotel staff and guests. The project has been customized to meet new requirements under new management for a hotel located in Toronto, Canada.
@@ -20,8 +21,9 @@ Welcome to the Hotel Scheduling Application! The application's purpose is to fac
 - **Time Zone Conversion**: The application provides the time of online live presentations at the Landon Hotel in Eastern Time (ET), Mountain Time (MT), and Coordinated Universal Time (UTC) zones.
 
 ## Screenshots
-![1](https://github.com/SadiqHarry/Springboot_Angualr_NodeJS-Hotel-Scheduling-Application/assets/116308353/acbd4c56-18ff-4a6b-9b89-a16cdaab250a)
-![2](https://github.com/SadiqHarry/Springboot_Angualr_NodeJS-Hotel-Scheduling-Application/assets/116308353/d4e92760-e2db-4659-8bb8-84922b3cfcce)
+![2](https://github.com/SadiqHarry/Hotel-Scheduling-Web-Application/assets/116308353/6602de6b-bbaa-42a7-9c1e-63fc80736d2d)
+
+![3](https://github.com/SadiqHarry/Hotel-Scheduling-Web-Application/assets/116308353/0716bd7f-1303-4d93-92d5-7e61470b8b6e)
 
 
 ## Setup Guide
